@@ -8,10 +8,10 @@
 
 ## 結果
 -貪欲法のみ  
-Challenge6 47122.67904053448  
-Challenge7 94969.24930682118
+Challenge6 
+Challenge7 
 
 -貪欲法＋2-opt  
-Challenge6 41748.33  
-Challenge7 84324.21  
+Challenge6 
+Challenge7   
 
